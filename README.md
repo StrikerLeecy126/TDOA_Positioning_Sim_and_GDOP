@@ -5,6 +5,10 @@ Note: This is one of the course projects of Wireless Sensor Network in UESTC.
 These codes are used for idea formation and guidance and are definitely not perfect.  
 Therefore please do not just only copy and paste, it could affect your final result of the course.
 
+## Recommended References
+A Simple and Efficient Estimator for Hyperbolic Location - Y. T. Chan, K. C. Ho  
+Hyperbolic Positioning Accuracy Issues Measurement Noise, Geometric Dilution of Position, and Synchronization Errors - Marc A. Weiss, Charles Barry  
+
 ## Code Note
 Generate_tdoa_base_band_signal.m: Given by Lecturer, generate signal with AWGN noise.  
 calc_delay.m: Calculate actual delays.  
