@@ -19,7 +19,7 @@ main.m: Code frame, calculate RMSE.
 
 ## Formulae Derivation
 ![image](https://user-images.githubusercontent.com/76428637/168616917-181d6b38-8aa0-4fa9-8a33-f0f9946d58d7.png)
-![image](https://user-images.githubusercontent.com/76428637/168619029-34a01229-5475-4440-a5c7-3cf118e59d59.png)
+![image](https://user-images.githubusercontent.com/76428637/168619175-2610d339-492e-4d14-b968-c0ecf556f291.png)
 ![image](https://user-images.githubusercontent.com/76428637/168616998-53ff4ddb-932b-4852-9f55-694aa4d76e60.png)
 
 ## GDOP Contour Line and RMSE
